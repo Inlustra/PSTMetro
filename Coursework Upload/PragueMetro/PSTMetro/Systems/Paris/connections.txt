@@ -1,0 +1,4 @@
+Paris North	Paris Central	2	North
+Paris Central	Eifel Tower	2	Paris
+Paris Central	Paris North	2	North
+Eifel Tower	Paris Central	2	Paris

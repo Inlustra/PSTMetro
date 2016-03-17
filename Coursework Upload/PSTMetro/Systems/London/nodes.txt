@@ -1,0 +1,70 @@
+Limehouse	898	270	10	10	DLR	false	1	
+Marlyebone	248	40	10	10	Barkerloo	false	2	
+Regent's Park	318	160	10	10	Barkerloo	false	4	
+Victoria	308	490	10	10	Victoria,Circle	true	1	
+Cutty Sark	1048	540	10	10	DLR	false	2	
+Notting Hill Gate	118	350	10	10	Circle	false	4	
+Covent Garden	568	330	10	10	Piccadilly	false	2	
+Paddington	118	40	10	10	Barkerloo,Circle	true	5	
+Elverson Road	1048	620	10	10	DLR	false	2	
+Holborn	568	210	10	10	Central,Piccadilly	true	5	
+Angel	688	50	10	10	Northern	false	1	
+Hyde Park Corner	248	380	10	10	Piccadilly	false	5	
+Embankment	518	490	10	10	Barkerloo,Circle	true	1	
+Heron Quay	1048	390	10	10	DLR	false	4	
+Knightsbridge	208	420	10	10	Piccadilly	false	5	
+Bayswater	118	210	10	10	Circle	false	4	
+King's Cross St Pancras	608	51	10	10	Victoria,Piccadilly,Northern	true	1	
+Green Park	308	330	10	10	Victoria,Piccadilly	true	5	
+Mornington Crescent	458	-50	10	10	Northern	false	4	
+Edgware Road	198	110	10	10	Circle	false	1	
+Chancery Lane	628	210	10	10	Central	false	1	
+Crossharbour	1048	450	10	10	DLR	false	4	
+Island Gardens	1048	510	10	10	DLR	false	4	
+Charing Cross	498	400	10	10	Barkerloo,Northern	true	2	
+Blackfriars	608	410	10	10	Circle	false	2	
+Cannon Street	668	350	10	10	Circle	false	2	
+Shadwell	828	270	10	10	DLR	false	1	
+Old Street	748	50	10	10	Northern	false	1	
+Monument	708	320	10	10	Circle	false	1	
+Westminster	438	490	10	10	Circle	false	1	
+Tottenham Court Road	498	210	10	10	Central,Northern	true	5	
+South Quay	1048	420	10	10	DLR	false	4	
+Greenwich	1048	560	10	10	DLR	false	2	
+Westferry	968	270	10	10	DLR	false	1	
+Waterloo	498	550	10	10	Barkerloo,Northern	true	2	
+Poplar	1048	270	10	10	DLR	false	2	
+Mudchute	1048	480	10	10	DLR	false	4	
+Lamberth North	538	610	10	10	Barkerloo	false	1	
+Tower Gateway	798	320	10	10	DLR,Circle	true	2	
+Canary Wharf	1048	350	10	10	DLR	false	4	
+Moorgate	748	140	10	10	Northern	false	4	
+Goodge Street	478	140	10	10	Northern	false	2	
+Kennington	438	750	10	10	Northern	false	5	
+Warren Street	448	80	10	10	Victoria,Northern	true	5	
+London Bridge	748	480	10	10	Northern	false	2	
+Warwick Avenue	7	41	10	10	Barkerloo	false	4	
+Euston	488	20	10	10	Victoria,Northern	true	2	
+Leicester Square	498	330	10	10	Piccadilly,Northern	true	5	
+Mansion House	638	380	10	10	Circle	false	2	
+Oval	388	780	10	10	Northern	false	5	
+Camden Town	578	-110	10	10	Northern	false	4	
+Deptford Road	1048	590	10	10	DLR	false	2	
+St James's Park	388	490	10	10	Circle	false	1	
+Gloucester Road	118	290	10	10	Circle	false	4	
+High Street Kensignton	118	400	10	10	Circle	false	4	
+Clapham North	288	840	10	10	Northern	false	5	
+Borough	608	600	10	10	Northern	false	4	
+Baker Street	298	120	10	10	Barkerloo	false	4	
+Lewisham	1048	650	10	10	DLR	false	2	
+Russell Square	608	130	10	10	Piccadilly	false	2	
+St Paul's	668	210	10	10	Central	false	1	
+Temple	608	490	10	10	Circle	false	2	
+Piccadilly Circus	398	330	10	10	Barkerloo,Piccadilly	true	5	
+South Kensington	118	490	10	10	Piccadilly,Circle	true	4	
+Sloane Square	248	490	10	10	Circle	false	1	
+Stockwell	338	810	10	10	Northern	false	5	
+West India Quay	1048	310	10	10	DLR	false	2	
+Bank	748	210	10	10	Central,DLR,Northern	true	1	
+Elephant & Castle	528	680	10	10	Barkerloo,Northern	true	2	
+Oxford Circus	348	210	10	10	Central,Victoria,Barkerloo	true	4	

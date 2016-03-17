@@ -1,0 +1,172 @@
+Embankment	Waterloo	2	Barkerloo
+Warren Street	Oxford Circus	2	Victoria
+Russell Square	Holborn	2	Piccadilly
+Charing Cross	Embankment	2	Barkerloo
+Monument	Tower Gateway	2	Circle
+Baker Street	Regent's Park	2	Barkerloo
+Paddington	Bayswater	2	Circle
+Goodge Street	Warren Street	2	Northern
+Canary Wharf	Heron Quay	2	DLR
+Baker Street	Marlyebone	2	Barkerloo
+West India Quay	Poplar	2	DLR
+Bank	Moorgate	2	Northern
+South Kensington	Knightsbridge	2	Piccadilly
+Elverson Road	Lewisham	2	DLR
+Tower Gateway	Monument	2	Circle
+Greenwich	Cutty Sark	2	DLR
+Shadwell	Tower Gateway	2	DLR
+Blackfriars	Temple	2	Circle
+Marlyebone	Paddington	2	Barkerloo
+Lamberth North	Waterloo	2	Barkerloo
+Cutty Sark	Island Gardens	2	DLR
+Mudchute	Crossharbour	2	DLR
+Lamberth North	Elephant & Castle	2	Barkerloo
+Angel	Old Street	2	Northern
+Euston	Camden Town	2	Northern
+Paddington	Marlyebone	2	Barkerloo
+Tottenham Court Road	Holborn	2	Central
+Kennington	Oval	2	Northern
+Limehouse	Westferry	2	DLR
+South Kensington	Sloane Square	2	Circle
+Holborn	Covent Garden	2	Piccadilly
+Shadwell	Bank	2	DLR
+Bank	St Paul's	2	Central
+Poplar	West India Quay	2	DLR
+South Quay	Crossharbour	2	DLR
+London Bridge	Bank	2	Northern
+Chancery Lane	Holborn	2	Central
+Sloane Square	Victoria	2	Circle
+Elephant & Castle	Lamberth North	2	Barkerloo
+Leicester Square	Piccadilly Circus	2	Piccadilly
+Goodge Street	Tottenham Court Road	2	Northern
+Paddington	Edgware Road	2	Circle
+Cannon Street	Monument	2	Circle
+Piccadilly Circus	Green Park	2	Piccadilly
+Stockwell	Oval	2	Northern
+Gloucester Road	Bayswater	2	Circle
+Gloucester Road	Notting Hill Gate	2	Circle
+Island Gardens	Cutty Sark	2	DLR
+Canary Wharf	West India Quay	2	DLR
+Tottenham Court Road	Oxford Circus	2	Central
+Hyde Park Corner	Knightsbridge	2	Piccadilly
+Moorgate	Old Street	2	Northern
+St Paul's	Bank	2	Central
+Warren Street	Euston	2	Victoria
+Waterloo	Lamberth North	2	Barkerloo
+Borough	Elephant & Castle	2	Northern
+Holborn	Chancery Lane	2	Central
+Knightsbridge	Hyde Park Corner	2	Piccadilly
+Holborn	Tottenham Court Road	2	Central
+Island Gardens	Mudchute	2	DLR
+Victoria	Green Park	2	Victoria
+Notting Hill Gate	Gloucester Road	2	Circle
+Embankment	Charing Cross	2	Barkerloo
+Warren Street	Euston	2	Northern
+Waterloo	Kennington	2	Northern
+Deptford Road	Elverson Road	2	DLR
+Bayswater	Paddington	2	Circle
+Regent's Park	Baker Street	2	Barkerloo
+Greenwich	Deptford Road	2	DLR
+Mornington Crescent	Euston	2	Northern
+Temple	Blackfriars	2	Circle
+Charing Cross	Piccadilly Circus	2	Barkerloo
+Embankment	Westminster	2	Circle
+Bayswater	Gloucester Road	2	Circle
+Green Park	Hyde Park Corner	2	Piccadilly
+Cannon Street	Mansion House	2	Circle
+Heron Quay	South Quay	2	DLR
+Stockwell	Clapham North	2	Northern
+Kennington	Elephant & Castle	2	Northern
+Chancery Lane	St Paul's	2	Central
+Westminster	Embankment	2	Circle
+Old Street	Moorgate	2	Northern
+Leicester Square	Charing Cross	2	Northern
+Oxford Circus	Tottenham Court Road	2	Central
+Bank	Shadwell	2	DLR
+Temple	Embankment	2	Circle
+Poplar	Westferry	2	DLR
+Oxford Circus	Piccadilly Circus	2	Barkerloo
+Camden Town	Mornington Crescent	2	Northern
+Paddington	Warwick Avenue	2	Barkerloo
+Piccadilly Circus	Charing Cross	2	Barkerloo
+Elephant & Castle	Kennington	2	Northern
+Mansion House	Blackfriars	2	Circle
+Tottenham Court Road	Goodge Street	2	Northern
+Elephant & Castle	Borough	2	Northern
+Crossharbour	Mudchute	2	DLR
+Moorgate	Bank	2	Northern
+Green Park	Oxford Circus	2	Victoria
+Warren Street	Goodge Street	2	Northern
+Regent's Park	Oxford Circus	2	Barkerloo
+Holborn	Russell Square	2	Piccadilly
+Sloane Square	South Kensington	2	Circle
+High Street Kensignton	South Kensington	2	Circle
+West India Quay	Canary Wharf	2	DLR
+Heron Quay	Canary Wharf	2	DLR
+St James's Park	Victoria	2	Circle
+Warwick Avenue	Paddington	2	Barkerloo
+Limehouse	Shadwell	2	DLR
+Crossharbour	South Quay	2	DLR
+Camden Town	Euston	2	Northern
+Notting Hill Gate	High Street Kensignton	2	Circle
+Charing Cross	Leicester Square	2	Northern
+Victoria	Sloane Square	2	Circle
+Leicester Square	Tottenham Court Road	2	Northern
+Oxford Circus	Regent's Park	2	Barkerloo
+Bank	London Bridge	2	Northern
+High Street Kensignton	Notting Hill Gate	2	Circle
+St James's Park	Westminster	2	Circle
+Euston	King's Cross St Pancras	2	Victoria
+Waterloo	Embankment	2	Barkerloo
+Tower Gateway	Shadwell	2	DLR
+Victoria	St James's Park	2	Circle
+Oval	Kennington	2	Northern
+Clapham North	Stockwell	2	Northern
+King's Cross St Pancras	Russell Square	2	Piccadilly
+Shadwell	Limehouse	2	DLR
+St Paul's	Chancery Lane	2	Central
+Leicester Square	Covent Garden	2	Piccadilly
+Mansion House	Cannon Street	2	Circle
+Westferry	Limehouse	2	DLR
+Cutty Sark	Greenwich	2	DLR
+Westferry	Poplar	2	DLR
+Charing Cross	Waterloo	2	Northern
+Deptford Road	Greenwich	2	DLR
+Lewisham	Elverson Road	2	DLR
+Kennington	Waterloo	2	Northern
+South Kensington	High Street Kensignton	2	Circle
+South Quay	Heron Quay	2	DLR
+Green Park	Piccadilly Circus	2	Piccadilly
+Piccadilly Circus	Leicester Square	2	Piccadilly
+Hyde Park Corner	Green Park	2	Piccadilly
+Piccadilly Circus	Oxford Circus	2	Barkerloo
+Covent Garden	Holborn	2	Piccadilly
+Oxford Circus	Warren Street	2	Victoria
+Angel	King's Cross St Pancras	2	Northern
+Marlyebone	Baker Street	2	Barkerloo
+Mornington Crescent	Camden Town	2	Northern
+Waterloo	Charing Cross	2	Northern
+Green Park	Victoria	2	Victoria
+Monument	Cannon Street	2	Circle
+Blackfriars	Mansion House	2	Circle
+Euston	Mornington Crescent	2	Northern
+King's Cross St Pancras	Euston	2	Northern
+King's Cross St Pancras	Angel	2	Northern
+Euston	Warren Street	2	Victoria
+Oxford Circus	Green Park	2	Victoria
+Russell Square	King's Cross St Pancras	2	Piccadilly
+Old Street	Angel	2	Northern
+Euston	King's Cross St Pancras	2	Northern
+Euston	Warren Street	2	Northern
+Covent Garden	Leicester Square	2	Piccadilly
+Westminster	St James's Park	2	Circle
+Embankment	Temple	2	Circle
+London Bridge	Borough	2	Northern
+Oval	Stockwell	2	Northern
+Elverson Road	Deptford Road	2	DLR
+Edgware Road	Paddington	2	Circle
+Knightsbridge	South Kensington	2	Piccadilly
+Tottenham Court Road	Leicester Square	2	Northern
+King's Cross St Pancras	Euston	2	Victoria
+Borough	London Bridge	2	Northern
+Mudchute	Island Gardens	2	DLR

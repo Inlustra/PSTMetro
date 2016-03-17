@@ -1,0 +1,104 @@
+Dejvicka	Hradcanska	2	A
+Depo Hostivar	Skalka	2	A
+Flora	Zelivskeho	2	A
+Flora	Jiriko z Podebrad	2	A
+Hradcanska	Malostranska	2	A
+Hradcanska	Dejvicka	2	A
+Jiriko z Podebrad	Namesti Miru	2	A
+Jiriko z Podebrad	Flora	2	A
+Malostranska	Staromestska	2	A
+Malostranska	Hradcanska	2	A
+Mustek	Staromestska	2	A
+Mustek	Muzeum	1	A
+Muzeum	Mustek	1	A
+Muzeum	Namesti Miru	2	A
+Namesti Miru	Jiriko z Podebrad	2	A
+Namesti Miru	Muzeum	2	A
+Skalka	Depo Hostivar	2	A
+Skalka	Strasnicka	3	A
+Staromestska	Mustek	2	A
+Staromestska	Malostranska	2	A
+Strasnicka	Skalka	3	A
+Strasnicka	Zelivskeho	3	A
+Zelivskeho	Strasnicka	3	A
+Zelivskeho	Flora	2	A
+Andel	Smichovske nadrazi	2	B
+Andel	Karlovo namesti	2	B
+Cerny Most	Rajska zahrada	2	B
+CM	Vysocanska	2	B
+CM	Palmovka	3	B
+Florenc	Krizikova	2	B
+Florenc	Mustek	2	B
+Hloubetin	Rajska zahrada	4	B
+Hloubetin	Vysocanska	2	B
+Hurka	Luziny	2	B
+Hurka	Nove Butovice	1	B
+Invalidovna	Palmovka	2	B
+Invalidovna	Krizikova	2	B
+Jinonice	Nove Butovice	3	B
+Jinonice	Radlicka	3	B
+Karlovo namesti	Narodni trida	1	B
+Karlovo namesti	Andel	2	B
+Krizikova	Invalidovna	2	B
+Krizikova	Florenc	2	B
+Luka	Luziny	1	B
+Luka	Stodulky	2	B
+Luziny	Luka	1	B
+Luziny	Hurka	2	B
+Mustek	Florenc	2	B
+Mustek	Narodni trida	1	B
+Narodni trida	Karlovo namesti	1	B
+Narodni trida	Mustek	1	B
+Nove Butovice	Hurka	1	B
+Nove Butovice	Jinonice	3	B
+Palmovka	Invalidovna	2	B
+Palmovka	CM	3	B
+Radlicka	Smichovske nadrazi	4	B
+Radlicka	Jinonice	3	B
+Rajska zahrada	Hloubetin	4	B
+Rajska zahrada	Cerny Most	2	B
+Smichovske nadrazi	Radlicka	4	B
+Smichovske nadrazi	Andel	2	B
+Stodulky	Zlicin	3	B
+Stodulky	Luka	2	B
+Vysocanska	Hloubetin	2	B
+Vysocanska	CM	2	B
+Zlicin	Stodulky	3	B
+Budejovicka	Pankrac	2	C
+Budejovicka	Kacerov	2	C
+Chodov	Roxtyly	2	C
+Chodov	Opatov	3	C
+Florenc	Hlavni nadrazi	2	C
+Florenc	Vltavska	2	C
+Haje	Opatov	3	C
+Hlavni nadrazi	Muzeum	1	C
+Hlavni nadrazi	Florenc	2	C
+IP Pavlova	Vysehrad	3	C
+IP Pavlova	Muzeum	1	C
+Kacerov	Budejovicka	2	C
+Kacerov	Roxtyly	3	C
+Kobylisy	Nadrazi Holesovice	6	C
+Kobylisy	Ladvi	2	C
+Ladvi	Striskov	2	C
+Ladvi	Kobylisy	2	C
+Letnany	Prosek	2	C
+Muzeum	IP Pavlova	1	C
+Muzeum	Hlavni nadrazi	1	C
+Nadrazi Holesovice	Vltavska	2	C
+Nadrazi Holesovice	Kobylisy	6	C
+Opatov	Haje	3	C
+Opatov	Chodov	3	C
+Pankrac	Prazskeho povstani	2	C
+Pankrac	Budejovicka	2	C
+Prazskeho povstani	Pankrac	2	C
+Prazskeho povstani	Vysehrad	2	C
+Prosek	Letnany	2	C
+Prosek	Striskov	2	C
+Roxtyly	Chodov	2	C
+Roxtyly	Kacerov	3	C
+Striskov	Prosek	2	C
+Striskov	Ladvi	2	C
+Vltavska	Nadrazi Holesovice	2	C
+Vltavska	Florenc	2	C
+Vysehrad	Prazskeho povstani	2	C
+Vysehrad	IP Pavlova	3	C

@@ -1,0 +1,3 @@
+#Tue Nov 26 23:22:57 GMT 2013
+offsetX=-15
+offsetY=-23

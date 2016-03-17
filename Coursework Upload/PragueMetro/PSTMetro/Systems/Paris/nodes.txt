@@ -1,0 +1,3 @@
+Paris North	451	69	10	10	North	false	4	
+Paris Central	271	369	10	10	Paris,North	true	4	
+Eifel Tower	551	139	10	10	Paris	false	4	

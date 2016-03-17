@@ -1,0 +1,54 @@
+NR	485	213	10	10	B	false	4	
+Palmovka	635	123	30	30	B	false	0	
+Ladvi	575	43	30	30	C	false	0	
+Invalidovna	575	123	30	30	B	false	0	
+Florenc	495	173	30	30	B,C	true	4	
+Prazskeho povstani	515	413	30	30	C	false	4	
+Malostranska	385	143	30	30	A	false	4	
+Hurka	175	443	30	30	B	false	1	
+Zlicin	5	443	30	30	B	false	1	
+Muzeum	495	293	30	30	A,C	true	1	
+Kobylisy	535	43	30	30	C	false	0	
+Hradcanska	355	103	30	30	A	false	4	
+Letnany	725	43	30	30	C	false	0	
+Nove Butovice	225	443	30	30	B	false	1	
+Kacerov	655	453	30	30	C	false	0	
+Andel	365	363	30	30	B	false	4	
+Radlicka	305	443	30	30	B	false	2	
+Chodov	775	453	30	30	C	false	0	
+Zelivskeho	765	293	30	30	A	false	0	
+Pankrac	545	453	30	30	C	false	4	
+Striskov	625	43	30	30	C	false	0	
+Narodni trida	415	293	30	30	B	false	4	
+Jinonice	265	443	30	30	B	false	1	
+Hloubetin	805	123	30	30	B	false	0	
+Skalka	845	323	30	30	A	false	0	
+Haje	885	453	30	30	C	false	0	
+Vysehrad	495	373	30	30	C	false	2	
+Krizikova	535	123	30	30	B	false	0	
+Roxtyly	715	453	30	30	C	false	0	
+Luka	105	443	30	30	B	false	1	
+Flora	695	293	30	30	A	false	0	
+Strasnicka	795	323	30	30	A	false	0	
+Rajska zahrada	855	123	30	30	B	false	0	
+Mustek	455	233	30	30	A,B	true	4	
+Vltavska	495	123	30	30	C	false	4	
+Jiriko z Podebrad	635	293	30	30	A	false	0	
+Dejvicka	315	53	30	30	A	false	4	
+Nadrazi Holesovice	495	83	30	30	C	false	0	
+CM	685	123	30	30	B	false	0	
+Depo Hostivar	865	293	30	30	A	false	0	
+Stodulky	65	443	30	30	B	false	1	
+Vysocanska	735	123	30	30	B	false	0	
+Luziny	145	443	30	30	B	false	1	
+Budejovicka	595	453	30	30	C	false	0	
+Smichovske nadrazi	335	403	30	30	B	false	2	
+Opatov	835	453	30	30	C	false	0	
+Staromestska	415	183	30	30	A	false	4	
+IP Pavlova	495	333	30	30	C	false	2	
+Cerny Most	915	123	30	30	B	false	0	
+Hlavni nadrazi	495	243	30	30	C	false	1	
+Karlovo namesti	395	323	30	30	B	false	4	
+Kolbenova	775	133	10	10	B	false	0	
+Namesti Miru	565	293	30	30	A	false	0	
+Prosek	675	43	30	30	C	false	0	
